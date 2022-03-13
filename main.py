@@ -1,6 +1,6 @@
 while True:
 
-    #cpf = '05715961344'
+    
     cpf = input('Digite um CPF: ')
     novo_cpf = cpf[:-2]
     reverso = 10
